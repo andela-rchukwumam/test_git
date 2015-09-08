@@ -1,0 +1,25 @@
+<html>
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+  <WISPAccessGatewayParam
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://authgw2.csis.int/xml/WISPAccessGatewayParam.xsd">
+    <Redirect>
+	<AccessProcedure>1.0</AccessProcedure>
+	<AccessLocation></AccessLocation>
+	<LocationName></LocationName>
+	<LoginURL>http://authgw2.csis.int/login?target=xml</LoginURL>
+	<MessageType>100</MessageType>
+	<ResponseCode>0</ResponseCode>
+    </Redirect>
+  </WISPAccessGatewayParam>
+-->
+<head>
+<title>...</title>
+<meta http-equiv="refresh" content="0; url=http://authgw2.csis.int/login?dst=http%3A%2F%2Fwww.adobe.com%2Fimages%2Fshared%2Fdownload%5Fbuttons%2Fget%5Fflash%5Fplayer.gif">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+</head>
+<body>
+</body>
+</html>
